@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 
 
 class WhyUs extends Component {
-
   
   
   render() {
